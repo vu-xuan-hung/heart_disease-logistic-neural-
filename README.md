@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction: From Scratch to Deep Learning
+#  Heart Disease Prediction: From Scratch to Deep Learning
 
 ## 📌 Giới thiệu
 Dự án **Heart Disease Prediction: From Scratch to Deep Learning** tập trung vào việc dự đoán khả năng mắc **bệnh tim** dựa trên tập dữ liệu **UCI Heart Disease Dataset**.
