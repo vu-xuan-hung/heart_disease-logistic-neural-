@@ -55,7 +55,7 @@ Mục tiêu chính:
 | Manual Logistic Regression | ~74.35% |
 | Scikit-learn Logistic | ~81.52% |
 | Scikit-learn CV | ~80.54% |
-| TensorFlow Neural Network | **~84.78%** |
+| TensorFlow Neural Network | **~88.14%** |
 
 ---
 
