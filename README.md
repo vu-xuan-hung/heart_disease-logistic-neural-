@@ -12,7 +12,7 @@ Mục tiêu chính:
 
 ##  Nội dung chính
 
-### 1️Tiền xử lý dữ liệu
+### Tiền xử lý dữ liệu
 - Imputation giá trị thiếu
 - Chuẩn hóa dữ liệu (StandardScaler)
 - One-Hot Encoding cho biến phân loại
