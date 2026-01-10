@@ -19,8 +19,13 @@ Mục tiêu chính:
 - Pipeline & ColumnTransformer
 
 **Features**
-- Numerical: age, trestbps, chol, thalch, oldpeak
-- Categorical: sex, cp, restecg, slope, thal
+- Numerical: age, trestbps(huyết áp lúc nghỉ), chol(cholesterol), thalch(nhịp tim max), oldpeak(ST depression)
+- Categorical: sex, cp(Chest Pain type: Loại đau thắt ngực. Chia 4 loại:
+    -  Typical Angina: Đau thắt ngực điển hình.
+    -  Atypical Angina: Đau thắt ngực không điển hình.
+    -  Non-anginal pain: Đau không do thắt ngực.
+    -  Asymptomatic: Không có triệu chứng.)
+- , restecg, slope, thal(bệnh Thalassemia)
 - Target: num → nhị phân (0: không bệnh, 1: có bệnh)
 
 ---
