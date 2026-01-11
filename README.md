@@ -57,11 +57,13 @@ Mục tiêu chính:
 
 | Model | Accuracy |
 |------|----------|
-| Manual Logistic Regression | ~74.35% |
+| Manual Logistic Regression | ~81.41% |
 | Scikit-learn Logistic | ~81.52% |
 | Scikit-learn CV | ~80.54% |
-| TensorFlow Neural Network | **~88.14%** |
+| TensorFlow Neural Network | **~82.07%** |
 
+<img width="572" height="378" alt="image" src="https://github.com/user-attachments/assets/b111ae52-aa45-4f54-98b6-66a009aa0076" /> 
+<img width="501" height="368" alt="image" src="https://github.com/user-attachments/assets/3f26b8fe-eec0-4b07-96d9-df9e9dae2e10" />
 ---
 
 ## 🛠️ Cài đặt
